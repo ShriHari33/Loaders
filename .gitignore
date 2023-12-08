@@ -1,0 +1,7 @@
+.idea/
+CMakeLists.txt
+cmake-build-debug/
+loader.txt
+main
+test
+test.cpp
